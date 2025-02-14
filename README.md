@@ -1,1 +1,1 @@
-# Hello There!
+![](./assets/images/kamen-rider-text.gif)
