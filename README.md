@@ -1,3 +1,1 @@
-<div align="right">
-<img src="https://i.imgur.com/Y4dZRPB.png" alt="a picture of an orange cat" />
-</div>
+<img src="https://i.gifer.com/ATEd.gif" width="1400" height="400" alt="green" />
