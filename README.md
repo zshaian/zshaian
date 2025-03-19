@@ -1,1 +1,3 @@
-<img src="https://i.gifer.com/ATEd.gif" width="1400" height="300" alt="green" />
+<div align="right">
+<img src="./assets/images/car_standing.png" alt="standing car" />
+</div>
